@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Main-Class: JobsDriver
+Class-Path: /home/khayri/opt/hadoop/etc/hadoop:/home/khayri/opt/hadoop
+ /share/hadoop/common/lib/*:/home/khayri/opt/hadoop/share/hadoop/commo
+ n/*:/home/khayri/opt/hadoop/share/hadoop/hdfs:/home/khayri/opt/hadoop
+ /share/hadoop/hdfs/lib/*:/home/khayri/opt/hadoop/share/hadoop/hdfs/*:
+ /home/khayri/opt/hadoop/share/hadoop/mapreduce/lib/*:/home/khayri/opt
+ /hadoop/share/hadoop/mapreduce/*:/home/khayri/opt/hadoop/share/hadoop
+ /yarn:/home/khayri/opt/hadoop/share/hadoop/yarn/lib/*:/home/khayri/op
+ t/hadoop/share/hadoop/yarn/*
+
